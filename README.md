@@ -2,12 +2,7 @@
 
 Hello, my name is Julia Oliveira, I'm a brazilian Data Analyst at [Itaú Unibanco](https://github.com/itau) and Data Science student at [FIAP](https:)
 B2 Intermediate English Level
-## Github Stats
 
-<div align="center">
-      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jvbsz&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
-      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=jvbsz&theme=blue_navy&hide_border=true"/>
-</div>
 
 ## Stack
 
