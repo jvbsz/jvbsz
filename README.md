@@ -23,7 +23,6 @@ These are the technologies I'm currently diving into:
 I'm almost always online on Discord, it's the easiest way to reach me.
 
 [![DISCORD PRESENCE](https://lanyard.cnrad.dev/api/304610767116828674?borderRadius=10px)](https://discord.com/users/304610767116828674)
-[![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
 
 # Socials
 
