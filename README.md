@@ -10,7 +10,7 @@ B2 Intermediate English Level
 
 This is my stack I use regularly and feel most comfortable with:
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,aws,azure,docker,gcp,mongo,cassandra,postgres,git,github">
+<img src="https://skillicons.dev/icons?i=python,sql,aws,azure,docker,gcp,mongo,cassandra,postgres,git,github">
 
 ## Learning
 
